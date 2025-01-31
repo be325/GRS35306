@@ -8,3 +8,5 @@
 - [x] Learn basic Python and Machine Learning
 - [x] Learn how to create, adjust, and change the environment in Anaconda
 - [x] Fix the errors and warnings in the code 
+
+The codes from the group project are not included here.
