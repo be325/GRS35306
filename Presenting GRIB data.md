@@ -7,6 +7,7 @@ Presenting the data in Panoply (a data viewer for GRIB files developed by NASA)
 2. Download Panoply from [official website](https://www.giss.nasa.gov/tools/panoply/download/)
 3. It requires Java 11 to run the application, if there is no Java 11 on the laptop, please download and install it. However, as there was no Java 11 for me to download, I used [JDK 23 ](https://www.oracle.com/java/technologies/downloads/)as a replacement and it worked.
 4. Open the needed file.
+5. code: see [Presenting GRIB data](https://github.com/be325/GRS35306/blob/main/Presenting%20GRIB%20data.ipynb) (provided by Nikshep, Bangalore Suresh)
 # Results
 The information and visualization could be seen.
 ![GRIB in Panoply](https://github.com/user-attachments/assets/ba41aed9-ec0b-40ce-8941-b405421559e8)
