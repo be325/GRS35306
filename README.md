@@ -1,4 +1,5 @@
 # Introduction
+Beier Chen (1590774)
 ## Original learning goals
 - [x] Data wrangling 
 - [x] enhancing the quality of the data
