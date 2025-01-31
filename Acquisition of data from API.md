@@ -15,7 +15,7 @@ Open Data API
 5. input the filename in the second section to get the download link
 ![image](https://github.com/user-attachments/assets/a24f1bd1-dfbb-46bb-a0d0-9661b0fb054f)
 ![download link](https://github.com/user-attachments/assets/e4a819f9-d0a9-4bd0-a7c7-f3fa55632e8b)
-6. code: see [Acquisition of data from API.ipynb](https://github.com/be325/GRS35306/blob/main/Acquisition%20of%20data%20from%20API.ipynb)
+6. code: see [Acquisition of data from API.ipynb](https://github.com/be325/GRS35306/blob/main/Acquisition%20of%20data%20from%20API.ipynb) (provided by Nikshep, Bangalore Suresh)
 ## Results
 the file could be downloaded but in tar. format
 ## Conclusions both on the results as well as on the accomplishment of the goal
