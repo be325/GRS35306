@@ -9,6 +9,7 @@ Open Data API
 ![authentication key](https://github.com/user-attachments/assets/fe0b745e-ec07-4f10-8c13-546ddd39a268)
 2. put the key in the KNMI data platform to authorize the availability of data
 3. input the name and the version of the dataset in the form (the maximum number of files to return could also be adjusted)
+![image](https://github.com/user-attachments/assets/95addef6-f1ff-4350-a1ac-289e97c65557)
 4. click “execute” in the first section to obtain the paginated list of files for the dataset
 ![image](https://github.com/user-attachments/assets/0148d379-0c3e-4e3c-821f-688d866d1adc)
 5. input the filename in the second section to get the download link
