@@ -4,8 +4,9 @@
 ## aspects went not so good:
 1.	Technique Issues: there are only two members in our group who know how to write the code, so when one of them was sick, the process was slowed down.
 2.	Operation System Differences: the code was written in MacOS, and it did not work on Windows, thus, it took us quite a long time to figure the errors (especially the Numpy package) out.
-3.	Conflicts between packages: the necessary packages required different versions of Python, so we created several environments in Anaconda to fit the requirements, however, there were still modules (e.g., numpy._core.numeric) missing within the designed version of Numpy.
-![ModuleNotFound'numpy._core.numeric'](C:\Users\Bella\OneDrive - Wageningen University & Research\Desktop)
+3.	Conflicts between packages: the necessary packages required different versions of Python, so we created several environments in Anaconda to fit the requirements, however, there were still modules (e.g., numpy._core.numeric) missing within the designed version of Numpy. Even though we tried to fix this bug, there was no information about it on the Internet. Therefore, we changed to colab for our project.
+![image](https://github.com/user-attachments/assets/1e367355-ce8a-40be-9f38-033585e825d2)
+
 
 ## Potential use and application of the project outcomes
 
