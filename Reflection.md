@@ -1,16 +1,14 @@
 # A reflection on the learning process:
 ## Boundary Crossing Competence
+The connection between data science and environmental problems is deeper than I used to think. 
 ## Aspects that went ok
-## aspects went not so good:
-1.	Technique Issues: there are only two members in our group who know how to write the code, so when one of them was sick, the process was slowed down.
+In general, the whole process was fine and we achieved our goal of creating the early warning system based on real-time weather data. During the process, I learned a lot within three weeks. The lectures on ethics helped me to understand why there are concerns regarding privacy and societal issues. The discussion with other groups also showed the diversity and variety of values people may consider when obtaining different data from different resources. To be specific, another group needs to get data from citizens for their mental health, so they are concerned more about privacy while my group focuses on how to make the accessibility to the dashboard equal.
+## aspects went not so good
+1.	Technique Issues: only two members in our group know how to write the code, so when one of them was sick, the process was slowed down.
 2.	Operation System Differences: the code was written in MacOS, and it did not work on Windows, thus, it took us quite a long time to figure the errors (especially the Numpy package) out.
-3.	Conflicts between packages: the necessary packages required different versions of Python, so we created several environments in Anaconda to fit the requirements, however, there were still modules (e.g., numpy._core.numeric) missing within the designed version of Numpy. Even though we tried to fix this bug, there was no information about it on the Internet. Therefore, we changed to colab for our project.
+3.	Conflicts between packages: the necessary packages required different versions of Python, so we created several environments in Anaconda to fit the requirements, however, there were still modules (e.g., numpy._core.numeric) missing within the designed version of Numpy. Even though we tried to fix this bug, there was no information about it on the Internet. Therefore, we changed to Colab for our project.
 ![image](https://github.com/user-attachments/assets/1e367355-ce8a-40be-9f38-033585e825d2)
-
-
+4. Lack of practice: the lectures focus more on theory and the instructions for practicing are not very clear. For students who do not have basic knowledge about coding, we need more information about the steps for the practical.
+5. Communication Issues: the communication in the group could be enhanced by telling others what they are doing to avoid overlapping work. Also, when dividing the parts for group members, it is better to explain what should be done 
 ## Potential use and application of the project outcomes
-
-1.	The whole process, in general, is smoothy 
-2.	The lecture focused on theory, and I was not practicing enough during the practicals and tutorials.
-3.	It was my first time thinking about the ethical and societal aspects of using data, and there are far more things we should concerned about when collecting data from users or publishing results.
-4.	The communication in the group is essential and needs to be done.
+The project was designed to make a flood early warning system and the application is to predict the potential risk of being flooded. The dashboard only shows the water level of rivers now, but when there is a predicted flood level, our system will be able to indicate whether the area is likely to flood or not. If it is possible to cooperate with the local municipality, it is possible to provide information about the availability and routines of shelters. In this case, the project could serve as an evacuation dashboard. 
