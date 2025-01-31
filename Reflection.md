@@ -1,6 +1,6 @@
 # A reflection on the learning process
 ## Boundary Crossing Competence
-The connection between data science and environmental problems is deeper than I used to think. Indeed, there are many measurements and analy
+The connection between data science and environmental problems is deeper than I used to think. Indeed, there are many measurements and analyses, but as an MES student, I did not treat the analysis seriously. However, I found that it is impossible to be ignorant about dealing with data. 
 ### Identification
 Flood prediction depends on real-time data from weather stations, river gauges, and remote sensing sources. However, even though many flood-prone regions have automated monitoring infrastructure, they do not predict the future water level. Thus, It is necessary to integrate sensors and visualization tools for a more responsive flood early warning system.
 ### Coordination
@@ -20,3 +20,11 @@ In general, the whole process was fine and we achieved our goal of creating the 
 5. Communication Issues: the communication in the group could be enhanced by telling others what they are doing to avoid overlapping work. Also, when dividing the parts for group members, it is better to explain what should be done since others may not understand the process clearly. Last, the problem being pointed out during the presentation (lack of warning indicating whether there will be a flood on the dashboard) was discussed with the person who made the dashboard, but he did not add that section to the dashboard. 
 ## Potential use and application of the project outcomes
 The project was designed to make a flood early warning system and the application is to predict the potential risk of being flooded. The dashboard only shows the water level of rivers now, but when there is a predicted flood level, our system will be able to indicate whether the area is likely to flood or not. If it is possible to cooperate with the local municipality, it is possible to provide information about the availability and routines of shelters. In this case, the project could serve as an evacuation dashboard. 
+##  Societal implications of using smart technologies
+### Positives
+1. Improve the quality of life: if the natural disasters could be predicted and then avoided, people can save life and wealth
+2. Enhance Public Safety: the initial aim of our project is to help inhabitants to avoid being injured by the floods
+### Negatives
+1. Pravicy Concerns: data gathered from people are posing individual privacy issues if being widespreaded.
+2. Cybersecurity Risks: the increased connectivity of smart devices creates vulnerabilities to hacking and data breaches.
+3. Biased Accessibility: not everyone has the sufficient access to the Internet all the time, and the connection could be interupted during disasters. Also for those who are old and not familiar with modern electronic equipment could face trouble when there is a loss of internet connection.
