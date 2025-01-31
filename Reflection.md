@@ -1,6 +1,14 @@
-# A reflection on the learning process:
+# A reflection on the learning process
 ## Boundary Crossing Competence
 The connection between data science and environmental problems is deeper than I used to think. 
+### Identification
+Flood prediction depends on real-time data from weather stations, river gauges, and remote sensing sources. However, even though many flood-prone regions have automated monitoring infrastructure, they do not predict the future water level. Thus, It is necessary to integrate sensors and visualization tools for a more responsive flood early warning system.
+### Coordination
+To create the early warning system, meteorologists and hydrologists must collaborate interdisciplinaryly to determine key flood indicators such as precipitation levels, river discharge, and water depth. Then, data scientists or GIS experts could design an interactive dashboard displaying real-time flood risk using Python-based machine learning models. Lastly, local authorities and emergency responders can ensure the system aligns with disaster response protocols and community needs.
+### Reflection
+Initially, challenges included data inconsistency as data were missing for no reason. Also, there could be sensor calibration issues but we cannot check this by ourselves. Further, the model's reliability could be differentiated in different terrains. Engaging in interdisciplinary discussions helped refine the data pipeline, ensuring accurate and meaningful alerts.  I learned how people differ in considering the purpose of creating this warning system. As a student who was learning social science, I was concerned more about the communication efficiency with the inhabitants, while my other groupmates cared more about the accuracy of the prediction system.
+### Motivation
+To enhance my ability to cooperate with other experts, I would like to learn more about data science and improve my ability to analyze data.
 ## Aspects that went ok
 In general, the whole process was fine and we achieved our goal of creating the early warning system based on real-time weather data. During the process, I learned a lot within three weeks. The lectures on ethics helped me to understand why there are concerns regarding privacy and societal issues. The discussion with other groups also showed the diversity and variety of values people may consider when obtaining different data from different resources. To be specific, another group needs to get data from citizens for their mental health, so they are concerned more about privacy while my group focuses on how to make the accessibility to the dashboard equal.
 ## aspects went not so good
